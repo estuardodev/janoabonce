@@ -10,6 +10,8 @@
     <string name="btnTwitch">Ver en Twitch</string>
     <string name="sugerencia_Directo">La versión que usas es una versión BETA\nPara una mejor experiencia mira el\ndirecto en Twitch APP</string>
     <string name="notInstall">La aplicación de Twitch no esta instalada</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="linkPoliticas">https://stuarddevapps.web.app/politicas-de-privacidad.html</string>
+    <string name="linkTerminos">https://stuarddevapps.web.app/terminos-y-condiciones.html</string>
+    <string name="notification_channel_group_general">General</string>
+
 </resources>
