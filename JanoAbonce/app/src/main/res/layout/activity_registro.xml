@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
-        android:text="Registro"
+        android:text="@string/regiter"
         android:textSize="36dp"
         android:textStyle="bold|italic" />
 
@@ -20,7 +20,7 @@
         android:layout_width="283dp"
         android:layout_height="43dp"
         android:ems="10"
-        android:hint="Correo electronico"
+        android:hint="@string/hintCorreo"
         android:layout_centerHorizontal="true"
         android:inputType="textEmailAddress"
         android:layout_marginTop="300dp"/>
@@ -32,7 +32,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="350dp"
         android:ems="10"
-        android:hint="Contraseña"
+        android:hint="@string/hintcontra"
         android:inputType="textPassword" />
 
 
@@ -44,7 +44,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="410dp"
         style="?attr/materialButtonOutlinedStyle"
-        android:text="Registrame"
+        android:text="@string/registerRegistrame"
         android:textColor="#FF0400"
         app:cornerRadius="20dp"
         app:strokeColor="#FF9D00"/>
@@ -54,7 +54,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="460dp"
         android:backgroundTint="#FF0400"
-        android:text="Inciar Sesion"
+        android:text="@string/registerLogin"
         app:cornerRadius="20dp"
         android:layout_centerHorizontal="true" />
 

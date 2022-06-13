@@ -15,6 +15,27 @@
     <string name="notification_channel_group_general">General</string>
     <string name="title_activity_ayuda">Ayuda</string>
     <string name="linkApoyaJano">https://www.paypal.com/donate/?hosted_button_id=M29QZGACKWFHN</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="editor">Editor</string>
+    <string name="txtSS">Inicio de Sesión</string>
+    <string name="hintCorreo">Correo electronico</string>
+    <string name="hintcontra">Contraseña</string>
+    <string name="loginbtn">Ingresar</string>
+    <string name="loginbtnRegister">Registrame</string>
+    <string name="redes">Redes Sociales</string>
+    <string name="regiter">Registro</string>
+    <string name="registerRegistrame">Registrame</string>
+    <string name="registerLogin">Inciar Sesion</string>
+
+    //Config
+    <string name="btI">Iniciar Sesion</string>
+    <string name="btR">Redes Sociales</string>
+    <string name="btA">Apoya a Jano Abonce</string>
+    <string name="btE">Editor</string>
+    <string name="btP">Politicas de privacidad</string>
+    <string name="btT">Terminos y Condiciones</string>
+    <string name="btH">Ayuda</string>
+    <string name="btS">Salir</string>
 
     //Nombre de Redes
     <string name="strTwitch">Twitch</string>

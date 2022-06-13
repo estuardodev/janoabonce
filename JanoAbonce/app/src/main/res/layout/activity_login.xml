@@ -17,7 +17,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Inicio de Sesión"
+        android:text="@string/txtSS"
         android:textSize="36dp"
         android:textStyle="bold|italic"
         android:layout_centerHorizontal="true"
@@ -28,7 +28,7 @@
         android:layout_width="283dp"
         android:layout_height="43dp"
         android:ems="10"
-        android:hint="Correo electronico"
+        android:hint="@string/hintCorreo"
         android:layout_centerHorizontal="true"
         android:inputType="textEmailAddress"
         android:layout_marginTop="300dp"/>
@@ -40,7 +40,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="350dp"
         android:ems="10"
-        android:hint="Contraseña"
+        android:hint="@string/hintcontra"
         android:inputType="textPassword" />
 
 
@@ -52,13 +52,14 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="410dp"
         android:backgroundTint="#FF0400"
-        android:text="Ingresar"
+        android:textColor="@color/white"
+        android:text="@string/loginbtn"
         app:cornerRadius="20dp" />
     <Button
         android:id="@+id/registerBtn"
         android:layout_width="340dp"
         android:layout_height="wrap_content"
-        android:text="Registrame"
+        android:text="@string/loginbtnRegister"
         app:cornerRadius="20dp"
         android:textColor="#FF0400"
         app:strokeColor="#FF9D00"

@@ -15,7 +15,7 @@
             android:layout_marginTop="30dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Iniciar Sesion"
+            android:text="@string/btI"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:textColor="@color/white"
@@ -27,7 +27,7 @@
             android:layout_marginTop="30dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Redes Sociales"
+            android:text="@string/btR"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:textColor="@color/white"
@@ -38,7 +38,7 @@
             android:layout_marginTop="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Apoya a Jano Abonce"
+            android:text="@string/btA"
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:textColor="@color/white"
@@ -55,7 +55,7 @@
             android:textColor="@color/black"
             style="?attr/materialButtonOutlinedStyle"
             app:strokeColor="@color/purple_3"
-            android:text="Editor"
+            android:text="@string/btE"
             />
 
         <Button
@@ -67,7 +67,7 @@
             android:layout_marginRight="30dp"
             android:textColor="@color/white"
             android:backgroundTint="@color/red_7"
-            android:text="Politicas de privacidad"/>
+            android:text="@string/btP"/>
         <Button
             android:id="@+id/terminos"
             app:cornerRadius="20dp"
@@ -78,7 +78,7 @@
             android:layout_marginRight="30dp"
             android:textColor="@color/white"
             android:backgroundTint="@color/red_7"
-            android:text="Terminos y Condiciones"/>
+            android:text="@string/btT"/>
         <Button
             android:id="@+id/ayudame"
             app:cornerRadius="20dp"
@@ -89,7 +89,7 @@
             android:layout_marginRight="30dp"
             android:textColor="@color/white"
             android:backgroundTint="@color/red_7"
-            android:text="Ayuda"/>
+            android:text="@string/btH"/>
 
         <Button
             android:id="@+id/close"
@@ -101,7 +101,7 @@
             android:layout_marginLeft="30dp"
             android:layout_marginRight="30dp"
             android:textColor="@color/white"
-            android:text="SALIR"/>
+            android:text="@string/btS"/>
 
     </LinearLayout>
 </FrameLayout>

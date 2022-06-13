@@ -36,6 +36,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
         holder.lastName.setText(user.getLastname());
         holder.age.setText(user.getAge());
         holder.hour.setText(user.getHour());
+        holder.status.setText(user.getStatus());
 
     }
 
@@ -46,7 +47,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
     public static class MyViewHolder extends RecyclerView.ViewHolder{
 
-        TextView firstName, lastName, age, hour;
+        TextView firstName, lastName, age, hour, status;
 
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
@@ -55,6 +56,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
             lastName = itemView.findViewById(R.id.tvlastName);
             age = itemView.findViewById(R.id.tvage);
             hour = itemView.findViewById(R.id.tvhour);
+            status = itemView.findViewById(R.id.tvesta);
         }
     }
 }
