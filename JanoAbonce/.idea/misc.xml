@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/drawable/ic_acc.xml" value="0.1945" />
+        <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/drawable/ic_atras.xml" value="0.1" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_apoya_jano.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_editor_redes.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_politicas.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_registro.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_terminos.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/fragment_config.xml" value="0.17074275362318841" />
@@ -15,6 +17,7 @@
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/fragment_eventos.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/item.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/menu/menu_back.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
