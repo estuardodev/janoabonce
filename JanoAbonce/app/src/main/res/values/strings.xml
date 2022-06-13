@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Jano Abonce</string>
+
+    //Menu principal
+    <string name="eventos">Eventos</string>
+    <string name="directos">Directos</string>
+    <string name="config">Configuración</string>
 </resources>
