@@ -80,7 +80,7 @@
             android:backgroundTint="@color/red_7"
             android:text="Terminos y Condiciones"/>
         <Button
-            android:id="@+id/ayuda"
+            android:id="@+id/ayudame"
             app:cornerRadius="20dp"
             android:layout_marginTop="5dp"
             android:layout_width="match_parent"

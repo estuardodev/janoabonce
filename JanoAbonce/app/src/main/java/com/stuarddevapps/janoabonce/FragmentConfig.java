@@ -59,7 +59,7 @@ public class FragmentConfig extends Fragment {
         editorRedes = vista.findViewById(R.id.editorRedes);
         politicas = vista.findViewById(R.id.politicas);
         terminos = vista.findViewById(R.id.terminos);
-        ayuda = vista.findViewById(R.id.ayuda);
+        ayuda = vista.findViewById(R.id.ayudame);
         close = vista.findViewById(R.id.close);
 
         setAds();

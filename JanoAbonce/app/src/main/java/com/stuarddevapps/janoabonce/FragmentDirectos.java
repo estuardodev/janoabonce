@@ -58,7 +58,10 @@ public class FragmentDirectos extends Fragment {
 
                 Intent i = getActivity().getPackageManager().getLaunchIntentForPackage("tv.twitch.android.app");
                 if (i != null){
-                    startActivity(i);
+                    String url = "https://www.twitch.tv/janoabonce";
+                    Uri uri = Uri.parse(url);
+                    Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                    startActivity(intent);
                 }else
                 {
                     Toast.makeText(getContext(),getString(R.string.notInstall), Toast.LENGTH_SHORT).show();
