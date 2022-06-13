@@ -14,11 +14,18 @@
     <string name="linkTerminos">https://stuarddevapps.web.app/terminos-y-condiciones.html</string>
     <string name="notification_channel_group_general">General</string>
     <string name="title_activity_ayuda">Ayuda</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="linkApoyaJano">https://www.paypal.com/donate/?hosted_button_id=M29QZGACKWFHN</string>
+
+    //Anuncios Banner
+    <string name="banner1">ca-app-pub-6691938542138083/5703365549</string>
+    <string name="banner2">ca-app-pub-6691938542138083/8963436784</string>
+    <string name="banner3">ca-app-pub-6691938542138083/7919848239</string>
+    <string name="banner4">ca-app-pub-6691938542138083/7458783426</string>
+    <string name="banner5">ca-app-pub-6691938542138083/4832620088</string>
+    <string name="banner6">ca-app-pub-6691938542138083/3519538416</string>
+
+    //Anuncios intersictial
+    <string name="inter1">ca-app-pub-6691938542138083/1269845251</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
