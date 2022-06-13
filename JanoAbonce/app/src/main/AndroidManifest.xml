@@ -17,6 +17,26 @@
         android:theme="@style/Theme.JanoAbonce"
         tools:targetApi="31">
         <activity
+            android:name=".Ayuda"
+            android:exported="false"
+            android:label="@string/title_activity_ayuda"
+            android:theme="@style/Theme.JanoAbonce.NoActionBar" />
+        <activity
+            android:name=".Politicas"
+            android:exported="false" />
+        <activity
+            android:name=".Terminos"
+            android:exported="false" />
+        <activity
+            android:name=".EditorRedes"
+            android:exported="false" />
+        <activity
+            android:name=".ApoyaJano"
+            android:exported="false" />
+        <activity
+            android:name=".RedesJano"
+            android:exported="false" />
+        <activity
             android:name=".Registro"
             android:exported="false" />
         <activity

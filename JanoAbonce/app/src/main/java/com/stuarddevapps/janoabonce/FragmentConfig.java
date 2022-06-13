@@ -63,7 +63,71 @@ public class FragmentConfig extends Fragment {
         close = vista.findViewById(R.id.close);
 
         setAds();
+        redeJano();
+        apoyasjano();
+        editoRedes();
+        politica();
+        termino();
+        help();
+        salir();
         return vista;
+    }
+
+    private void redeJano(){
+        redesJano.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
+    }
+    private void apoyasjano(){
+        apoyajano.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
+    }
+    private void editoRedes(){
+        editorRedes.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
+    }
+    private void politica(){
+        politicas.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
+    }
+    private void termino(){
+        terminos.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
+    }
+    private void help(){
+        ayuda.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
+    }
+    private void salir(){
+        close.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+            }
+        });
     }
 
 
