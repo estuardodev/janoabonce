@@ -12,8 +12,11 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity {
+
 
 
     //Menu Variables
@@ -27,11 +30,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+
         //Llamadas
         initView();
         initValues();
         initListener();
     }
+
+
+
 
 
     //MENU BOTTOM

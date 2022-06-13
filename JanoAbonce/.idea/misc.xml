@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/drawable/ic_acc.xml" value="0.1945" />
+        <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_registro.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/fragment_config.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/fragment_directos.xml" value="0.18" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/fragment_eventos.xml" value="0.17074275362318841" />
