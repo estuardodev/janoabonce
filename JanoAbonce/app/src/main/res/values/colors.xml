@@ -43,4 +43,13 @@
     <color name="purple_7">#815c97</color>
     <color name="purple_8">#ab90b9</color>
     <color name="purple_9">#d5c6dc</color>
+
+    //Redes Sociales
+    <color name="twitch">#2b064d</color>
+    <color name="fc">#4353FF</color>
+    <color name="ig">#FF8A00</color>
+    <color name="tt">#000000</color>
+    <color name="git">#5E5E5E</color>
+    <color name="twtt">#00DFFF</color>
+    <color name="web">#FCD300</color>
 </resources>
