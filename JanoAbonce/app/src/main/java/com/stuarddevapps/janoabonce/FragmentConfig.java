@@ -139,7 +139,7 @@ public class FragmentConfig extends Fragment {
     private void setAds(){
         AdRequest adRequest = new AdRequest.Builder().build();
 
-        InterstitialAd.load(getContext(),"ca-app-pub-6691938542138083/1269845251", adRequest,
+        InterstitialAd.load(getContext(),getString(R.string.inter1), adRequest,
                 new InterstitialAdLoadCallback() {
                     @Override
                     public void onAdLoaded(@NonNull InterstitialAd interstitialAd) {
