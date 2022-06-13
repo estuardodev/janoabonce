@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/drawable/ic_acc.xml" value="0.1945" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/drawable/ic_atras.xml" value="0.1" />
+        <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_adios.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_apoya_jano.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_ayuda.xml" value="0.15534420289855072" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_editor_redes.xml" value="0.33" />
@@ -13,6 +14,7 @@
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_politicas.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_redes_jano.xml" value="0.18" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_registro.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_splash.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/activity_terminos.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/content_ayuda.xml" value="0.1" />
         <entry key="..\:/Users/Estuardo/StuarddevApps/JanoAbonce/AndroidStudio/JanoAbonce/app/src/main/res/layout/fragment_config.xml" value="0.17074275362318841" />
