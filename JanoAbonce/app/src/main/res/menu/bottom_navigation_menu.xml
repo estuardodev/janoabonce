@@ -10,7 +10,7 @@
             android:id="@+id/menu_directo"
             android:title="@string/directos"
             android:icon="@drawable/ic_live"/>
-    <item
+        <item
             android:id="@+id/menu_config"
             android:title="@string/config"
             android:icon="@drawable/ic_config"/>

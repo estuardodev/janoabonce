@@ -5,6 +5,42 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+
+    //Paleta Default
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    //Paleta roja
+    <color name="red_1">#c20000</color>
+    <color name="red_2">#cf0000</color>
+    <color name="red_3">#dd0000</color>
+    <color name="red_4">#ea0000</color>
+    <color name="red_5">#f80000</color>
+    <color name="red_6">#ff3816</color>
+    <color name="red_7">#ff6737</color>
+    <color name="red_8">#ff8b55</color>
+    <color name="red_9">#ffab74</color>
+
+    //Paleta amarilla
+    <color name="yellow_1">#FFF8E1</color>
+    <color name="yellow_2">#FFECB3</color>
+    <color name="yellow_3">#FFE082</color>
+    <color name="yellow_4">#FFD54F</color>
+    <color name="yellow_5">#FFCA28</color>
+    <color name="yellow_6">#FFC107</color>
+    <color name="yellow_7">#FFB300</color>
+    <color name="yellow_8">#FFA000</color>
+    <color name="yellow_9">#FF8F00</color>
+    <color name="yellow_10">#FF6F00</color>
+
+    //Paleta Morada
+    <color name="purple_1">#1b003a</color>
+    <color name="purple_2">#230443</color>
+    <color name="purple_3">#2b064d</color>
+    <color name="purple_4">#340856</color>
+    <color name="purple_5">#3d0b60</color>
+    <color name="purple_6">#572975</color>
+    <color name="purple_7">#815c97</color>
+    <color name="purple_8">#ab90b9</color>
+    <color name="purple_9">#d5c6dc</color>
 </resources>
