@@ -27,7 +27,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-
+        //Llamadas
+        initView();
+        initValues();
+        initListener();
     }
 
 

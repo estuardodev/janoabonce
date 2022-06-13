@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675491579382",
+    "project_id": "janoabonce-web",
+    "storage_bucket": "janoabonce-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675491579382:android:151fab5ec1806b2931f3d7",
+        "android_client_info": {
+          "package_name": "com.stuarddevapps.janoabonce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675491579382-tuq2aoer3ql4rea462u1q8gnhg8lri5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRsI4woCbeH0sKsupabZycT5qGpq0Lnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675491579382-tuq2aoer3ql4rea462u1q8gnhg8lri5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

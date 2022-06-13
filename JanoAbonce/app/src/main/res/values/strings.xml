@@ -5,6 +5,11 @@
     <string name="eventos">Eventos</string>
     <string name="directos">Directos</string>
     <string name="config">Configuración</string>
+
+    //Estandar
+    <string name="btnTwitch">Ver en Twitch</string>
+    <string name="sugerencia_Directo">La versión que usas es una versión BETA\nPara una mejor experiencia mira el\ndirecto en Twitch APP</string>
+    <string name="notInstall">La aplicación de Twitch no esta instalada</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
