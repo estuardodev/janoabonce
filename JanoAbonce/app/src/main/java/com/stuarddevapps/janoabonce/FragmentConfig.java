@@ -77,7 +77,8 @@ public class FragmentConfig extends Fragment {
         redesJano.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent i = new Intent(getActivity(), RedesJano.class);
+                startActivity(i);
             }
         });
     }
@@ -85,7 +86,8 @@ public class FragmentConfig extends Fragment {
         apoyajano.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent i = new Intent(getActivity(), ApoyaJano.class);
+                startActivity(i);
             }
         });
     }
@@ -93,7 +95,8 @@ public class FragmentConfig extends Fragment {
         editorRedes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent i = new Intent(getActivity(), EditorRedes.class);
+                startActivity(i);
             }
         });
     }
@@ -101,7 +104,8 @@ public class FragmentConfig extends Fragment {
         politicas.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent i = new Intent(getActivity(), Politicas.class);
+                startActivity(i);
             }
         });
     }
@@ -109,7 +113,8 @@ public class FragmentConfig extends Fragment {
         terminos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent i = new Intent(getActivity(), Terminos.class);
+                startActivity(i);
             }
         });
     }
@@ -117,7 +122,8 @@ public class FragmentConfig extends Fragment {
         ayuda.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Intent i = new Intent(getActivity(), Ayuda.class);
+                startActivity(i);
             }
         });
     }
@@ -125,12 +131,10 @@ public class FragmentConfig extends Fragment {
         close.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                System.exit(0);
             }
         });
     }
-
-
 
     private void setAds(){
         AdRequest adRequest = new AdRequest.Builder().build();
