@@ -47,17 +47,17 @@ public class MainActivity extends AppCompatActivity {
                 switch (idMenu){
                     case R.id.menu_eventos:
                         getSupportActionBar().setTitle(getString(R.string.eventos));
-                        fragment = Eventos.newInstance();
+                        fragment = FragmentEventos.newInstance();
                         openFragment(fragment);
                         return true;
                     case R.id.menu_directo:
                         getSupportActionBar().setTitle(getString(R.string.directos));
-                        fragment = Directo.newInstance();
+                        fragment = FragmentDirectos.newInstance();
                         openFragment(fragment);
                         return true;
                     case R.id.menu_config:
                         getSupportActionBar().setTitle(getString(R.string.config));
-                        fragment = Directo.newInstance();
+                        fragment = FragmentConfig.newInstance();
                         openFragment(fragment);
                         return true;
                 }
@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void loadFirstFragment(){
         getSupportActionBar().setTitle(R.string.app_name);
-        fragment = Eventos.newInstance();
+        fragment = FragmentEventos.newInstance();
         openFragment(fragment);
     }
 }
